@@ -1,10 +1,10 @@
-# Substrate .NET Wallet (NETStandard2.0, NETStandard2.1, NET6.0)
-*Substrate .NET Wallet functions for substrate-based nodes*  
-![Build](https://github.com/SubstrateGaming/Substrate.NET.Wallet/actions/workflows/build.yml/badge.svg)
-[![Nuget](https://img.shields.io/nuget/v/Substrate.NET.Wallet)](https://www.nuget.org/packages/Substrate.NET.Wallet/)
-[![GitHub issues](https://img.shields.io/github/issues/SubstrateGaming/Substrate.NET.Wallet.svg)](https://github.com/SubstrateGaming/Substrate.NET.Wallet/issues)
-[![license](https://img.shields.io/github/license/SubstrateGaming/Substrate.NET.Wallet)](https://github.com/SubstrateGaming/Substrate.NET.Wallet/blob/origin/LICENSE)
-[![contributors](https://img.shields.io/github/contributors/SubstrateGaming/Substrate.NET.Wallet)](https://github.com/SubstrateGaming/Substrate.NET.Wallet/graphs/contributors)  
+# Cumulativerse Substrate Wallet (NETStandard2.0, NETStandard2.1, NET6.0)
+*Cumulativerse Substrate Wallet functions for substrate-based nodes*  
+![Build](https://github.com/Cumulativerse/substrate-wallet-dotnet/actions/workflows/build.yml/badge.svg)
+[![Nuget](https://img.shields.io/nuget/v/Cumulativerse.Substrate.Wallet)](https://www.nuget.org/packages/Cumulativerse.Substrate.Wallet/)
+[![GitHub issues](https://img.shields.io/github/issues/Cumulativerse/substrate-wallet-dotnet.svg)](https://github.com/Cumulativerse/substrate-wallet-dotnet/issues)
+[![license](https://img.shields.io/github/license/Cumulativerse/substrate-wallet-dotnet)](https://github.com/Cumulativerse/substrate-wallet-dotnet/blob/origin/LICENSE)
+[![contributors](https://img.shields.io/github/contributors/Cumulativerse/substrate-wallet-dotnet)](https://github.com/Cumulativerse/substrate-wallet-dotnet/graphs/contributors)  
  
 ## How to use ?
 
